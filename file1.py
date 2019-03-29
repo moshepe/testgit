@@ -2,7 +2,7 @@ def func1(a, b):
     return a + b
 
 def func2(a, b):
-    return a * b + 3
+    return a * b + 2
 
 def func3(a):
     return a * 6 - 13
