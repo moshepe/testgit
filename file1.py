@@ -9,4 +9,4 @@ def func3(a):
 
 print(func1(3,5))
 print(func2(4,5))
-print(func3(5))
+print(func3(6))
